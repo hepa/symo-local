@@ -1,0 +1,1 @@
+Symo Local application
